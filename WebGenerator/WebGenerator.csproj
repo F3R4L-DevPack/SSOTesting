@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>4f744a0b-8007-4530-9978-f9f47e6207f4</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="5.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="F3R4L.DevPack.Api">
+      <HintPath>..\..\F3R4L\F3R4L.DevPack.Eve.SSO\F3R4L.DevPack.Eve.SSO\bin\Debug\netstandard2.1\F3R4L.DevPack.Api.dll</HintPath>
+    </Reference>
+    <Reference Include="F3R4L.DevPack.Api.DependencyInjection">
+      <HintPath>..\..\F3R4L\F3R4L.DevPack.Core\F3R4L.DevPack.Api.DependencyInjection\bin\Debug\netstandard2.1\F3R4L.DevPack.Api.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="F3R4L.DevPack.Eve.SSO">
+      <HintPath>..\..\F3R4L\F3R4L.DevPack.Eve.SSO\F3R4L.DevPack.Eve.SSO\bin\Debug\netstandard2.1\F3R4L.DevPack.Eve.SSO.dll</HintPath>
+    </Reference>
+    <Reference Include="F3R4L.DevPack.SSO">
+      <HintPath>..\..\F3R4L\F3R4L.DevPack.Eve.SSO\F3R4L.DevPack.Eve.SSO\bin\Debug\netstandard2.1\F3R4L.DevPack.SSO.dll</HintPath>
+    </Reference>
+    <Reference Include="F3R4L.DevPack.SSO.DependencyInjection">
+      <HintPath>..\..\F3R4L\F3R4L.DevPack.Core\F3R4L.DevPack.SSO.DependencyInjection\bin\Debug\netstandard2.1\F3R4L.DevPack.SSO.DependencyInjection.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

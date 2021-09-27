@@ -1,0 +1,9 @@
+D:\Source\F3R4L.DevPack.TokenGenerator\F3R4L.DevPack.TokenGenerator\bin\Debug\F3R4L.DevPack.TokenGenerator.exe.config
+D:\Source\F3R4L.DevPack.TokenGenerator\F3R4L.DevPack.TokenGenerator\bin\Debug\F3R4L.DevPack.TokenGenerator.exe
+D:\Source\F3R4L.DevPack.TokenGenerator\F3R4L.DevPack.TokenGenerator\bin\Debug\F3R4L.DevPack.TokenGenerator.pdb
+D:\Source\F3R4L.DevPack.TokenGenerator\F3R4L.DevPack.TokenGenerator\obj\Debug\F3R4L.DevPack.TokenGenerator.csprojAssemblyReference.cache
+D:\Source\F3R4L.DevPack.TokenGenerator\F3R4L.DevPack.TokenGenerator\obj\Debug\F3R4L.DevPack.TokenGenerator.Properties.Resources.resources
+D:\Source\F3R4L.DevPack.TokenGenerator\F3R4L.DevPack.TokenGenerator\obj\Debug\F3R4L.DevPack.TokenGenerator.csproj.GenerateResource.cache
+D:\Source\F3R4L.DevPack.TokenGenerator\F3R4L.DevPack.TokenGenerator\obj\Debug\F3R4L.DevPack.TokenGenerator.csproj.CoreCompileInputs.cache
+D:\Source\F3R4L.DevPack.TokenGenerator\F3R4L.DevPack.TokenGenerator\obj\Debug\F3R4L.DevPack.TokenGenerator.exe
+D:\Source\F3R4L.DevPack.TokenGenerator\F3R4L.DevPack.TokenGenerator\obj\Debug\F3R4L.DevPack.TokenGenerator.pdb
